@@ -1,3 +1,2 @@
 ### Paz Jaldety
-Started with C now im in JS, go figure...
-ATM learning Angular(So TS actually.)
+Taking my first steps as a Fullstack developer.
